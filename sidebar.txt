@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kgu:home|Door43 (kgu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kgu|d43-kgu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kgu/archive/master.zip|d43-kgu.zip]]
+
+**Recent Changes**
+{{changes>ns = kgu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kgu|Ethnologue data]]
+
